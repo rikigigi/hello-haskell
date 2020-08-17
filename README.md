@@ -1,8 +1,8 @@
 
 # Hello haskell first program
 
-computes the sum of keyword in the form `keyword amount`, where `amount` is a double
-the list is coded inside the program
+computes the sum of keyword in the form `keyword amount`, where `amount` is a double.
+The list is coded inside the program
 
 # compilation
 
